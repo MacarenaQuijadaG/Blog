@@ -1,1 +1,3 @@
-
+# Aplicación Blog
+## Resumen 
+Esta aplicación consta de un bloque que ...
